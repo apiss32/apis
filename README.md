@@ -1,5 +1,5 @@
 # apis
-websekolah
+<HTML></HTML>
 <!DOCTYPE html>
 <html lang="en">
 <head>
